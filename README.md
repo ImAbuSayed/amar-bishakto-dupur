@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amar-bishakto-dupur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Amar Bishakto Dupur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-bishakto-dupur/) |
+| **Get License** | [Official Music Licensing for Amar Bishakto Dupur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-bishakto-dupur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9b7730c91feb9aabf0d59ff5e7ec2e46cb7dc8f35b4c23edb99ed5bf27d820f8` |
 | **Timestamp** | May 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

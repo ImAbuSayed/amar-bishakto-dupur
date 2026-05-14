@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amar Bishakto Dupur
+
+This log tracks the cryptographic history and versioning for the song **Amar Bishakto Dupur** (amar-bishakto-dupur).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-14T22:07:17.188305 | `v1` | `9b7730c91feb9aabf0d59ff5e7ec2e46cb7dc8f35b4c23edb99ed5bf27d820f8` | `2b1e5d88931c54628df9c98ab6c81250643c2b37ccb91ddf061314ad8c98b419` | `2026-05-14_amar-bishakto-dupur-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
