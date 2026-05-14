@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amar-bishakto-dupur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Amar Bishakto Dupur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-bishakto-dupur/) |
+| **Get License** | [Music Rights & Licensing for Amar Bishakto Dupur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-bishakto-dupur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ছায়া ঘেরা এ দুপুর যেনো মেঘে ঢেকে যায়
+> স্মৃতির পাতায় লেখা কথা আজো কাঁদায়
+> বিষাক্ত এ হাওয়া যেনো নিঃশ্বাস থামায়
+> খুঁজে ফিরি তোমায় আমি এ কোন বেদনায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
